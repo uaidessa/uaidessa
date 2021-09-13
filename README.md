@@ -1,6 +1,6 @@
 ### Hi! I'm Andressa Gontijo! 🖖🏼👩🏻‍💻
 ##
-Information Security intern at Inter :orange_heart: | AppSec | DevSecOps
+Information Security intern at Inter :orange_heart: | AppSec
 ### ✨ About me
 -  :earth_americas: Minas Gerais - Brazil
 -  ✝️ 2 Cr 15:7
@@ -9,7 +9,7 @@ Information Security intern at Inter :orange_heart: | AppSec | DevSecOps
 -  🎓 Software Engineering (3/8)
 -  👩🏻‍🎓 Materials Engineer
 
-📚 I'm currently learning Python, Go.
+📚 I'm currently learning Python, Java.
 
  
 ##
