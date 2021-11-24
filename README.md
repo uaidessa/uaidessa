@@ -1,6 +1,9 @@
 ### Hi! I'm Andressa Gontijo! 🖖🏼👩🏻‍💻
+<img align="right" alt="Dessa" height="150" width="150"  src="https://cdn.discordapp.com/attachments/768922329337692180/872923228883009566/download20210804161752.png">
+
 ##
 Information Security intern at Inter :orange_heart: | AppSec
+
 ### ✨ About me
 -  :earth_americas: Minas Gerais - Brazil
 -  ✝️ 2 Cr 15:7
@@ -27,14 +30,14 @@ Information Security intern at Inter :orange_heart: | AppSec
   <img align="center" alt="CSS" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Go" height="30" width="40"              
    src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
-  <img align="right" alt="Dessa" height="150" width="150"  src="https://cdn.discordapp.com/attachments/768922329337692180/872923228883009566/download20210804161752.png">
+  
   </div>
   
  ##
   <div>
     <a href="https://instagram.com/uaidessa0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/andressagontijo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <img src="https://tryhackme-badges.s3.amazonaws.com/uaidessa.png" alt="TryHackMe">
   </div>
 
- ##
- <script src="https://tryhackme.com/badge/755883"></script>
+ 
