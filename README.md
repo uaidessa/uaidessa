@@ -6,7 +6,7 @@ Information Security intern at Inter :orange_heart: | AppSec
 -  ✝️ 2 Cr 15:7
 -  📚 Bookaholic 
 -  🍿 movies, series, doramas
--  🎓 Software Engineering (3/8)
+-  🎓 Software Engineering (5/8)
 -  👩🏻‍🎓 Materials Engineer
 
 📚 I'm currently learning Python, Java.
