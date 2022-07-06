@@ -2,14 +2,15 @@
 <img align="right" alt="Dessa" height="150" width="150"  src="https://cdn.discordapp.com/attachments/768922329337692180/872923228883009566/download20210804161752.png">
 
 ##
-Information Security intern at Inter :orange_heart: | AppSec
+InfoSec | AppSec | RedTeam | Vulnerabilities Management
 
 ### ✨ About me
--  :earth_americas: Minas Gerais - Brazil
+-  :earth_americas: Brazil
 -  ✝️ 2 Cr 15:7
 -  📚 Bookaholic 
 -  🍿 movies, series, doramas
--  🎓 Software Engineering (5/8)
+-  🎓 Software Engineering (6/8)
+-  🎓 Post-graduate - Information Security  
 -  👩🏻‍🎓 Materials Engineer
 
 📚 I'm currently learning Python, Java.
